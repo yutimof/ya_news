@@ -2,3 +2,4 @@
 ```bash
 python manage.py loaddata news.json
 ```
+Я всё еще только учусь. С большими перерывами!
