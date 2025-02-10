@@ -4,5 +4,5 @@ python manage.py loaddata news.json
 
 Я всё еще только учусь. С большими перерывами!
 
-number 5
+number 6
 ```
