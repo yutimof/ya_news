@@ -3,6 +3,7 @@
 python manage.py loaddata news.json
 
 Я всё еще только учусь. С большими перерывами!
+Что поделать? Семья.
 
-number 6
+number 7
 ```
