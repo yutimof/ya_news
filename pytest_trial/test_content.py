@@ -1,5 +1,6 @@
 # test_content.py
 from django.urls import reverse
+from conftest import note
 
 # В тесте используем фикстуру заметки
 # и фикстуру клиента с автором заметки.
