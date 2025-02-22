@@ -1,9 +1,7 @@
 Для загрузки заготовленных новостей после применения миграций выполните команду:
 ```bash
-python manage.py loaddata news.json
-
 Я всё еще только учусь. С большими перерывами!
 Что поделать? Семья.
 
-Chanche number 8 throw nano )
+Chanche number 98 throw nano )
 ```
